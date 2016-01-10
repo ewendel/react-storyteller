@@ -2,7 +2,7 @@
 
 Telling your story, one character at a time.
 
-![](react-storyteller.gif)
+![](storyteller.gif)
 
 ## Description
 
